@@ -34,8 +34,11 @@ Atualmente, o sistema consegue ler tags, criar turmas, cadastrar alunos, gerenci
 ## REFERÊNCIAS
 
 https://github.com/mxgxw/MFRC522-python
+
 http://wiki.python.org.br/SocketBasico
+
 http://doc.qt.io/qt-4.8/qtgui-module.html
+
 Trabalhos feitos durante o decorrer da disciplina.
 
 
