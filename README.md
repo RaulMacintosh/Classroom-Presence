@@ -6,7 +6,7 @@ Existem pontos negativos em realizar a chamada dos alunos em sala de aula. Uma f
 
 Esses são alguns problemas que podem ser causados por sistemas manuais de captura de frequência de alunos. Para isso foi desenvolvido um protótipo de sistema capaz de capturar a presença do aluno em sala de aula usando tags RFID (carteiras de estudante) e armazenando em arquivos através de um software no computador do professor.
 
-## SISTTEMA
+## SISTEMA
 
 O sistema consiste em dois módulos, o dispositivo de leitura e o software de controle. Onde o software de controle fica localizado em um computador, o dispositivo de leitura é a Raspberry Pi com um RFID Reader e a comunicação entre os dois é feita via socket.
 
